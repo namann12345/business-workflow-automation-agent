@@ -1,0 +1,13 @@
+name,department,skills,current_workload,max_workload,email,seniority,years_experience
+Alice Chen,Engineering,Python;FastAPI;LangChain;React;Docker,3,8,alice@company.com,Senior,6
+Bob Kumar,Engineering,React;TypeScript;Node.js;CSS;Jest,6,8,bob@company.com,Mid,4
+Carol Zhang,Engineering,Python;Machine Learning;PyTorch;Data Analysis;SQL,5,8,carol@company.com,Senior,7
+David Park,Engineering,Java;Spring Boot;AWS;Docker;Kubernetes,7,8,david@company.com,Mid,3
+Eve Martinez,Engineering,Python;Django;PostgreSQL;REST APIs;Redis,2,8,eve@company.com,Senior,8
+Frank Wilson,Engineering,React;Vue.js;CSS;Figma;TypeScript,4,6,frank@company.com,Junior,2
+Grace Lee,Engineering,Python;FastAPI;LangGraph;OpenAI;NLP,1,8,grace@company.com,Senior,9
+Henry Brown,Engineering,DevOps;Kubernetes;AWS;Terraform;CI/CD,5,7,henry@company.com,Mid,4
+Irene Johnson,Engineering,Python;Data Science;Pandas;Scikit-learn;SQL,6,8,irene@company.com,Senior,5
+James Patel,Engineering,React;Next.js;Python;FastAPI;PostgreSQL,3,7,james@company.com,Mid,3
+Karen Thomas,Design,Figma;Adobe XD;User Research;Prototyping,2,5,karen@company.com,Senior,6
+Liam Scott,Engineering,Python;Flask;MySQL;JavaScript;HTML,7,8,liam@company.com,Junior,1

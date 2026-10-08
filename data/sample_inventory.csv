@@ -1,0 +1,16 @@
+product_name,sku,current_stock,minimum_stock,category,unit_price
+Laptop Bag,BAG-001,5,10,Accessories,29.99
+Wireless Keyboard,KEY-002,3,8,Peripherals,49.99
+USB-C Hub,HUB-003,12,5,Peripherals,35.99
+Monitor Stand,MON-004,7,15,Office,22.99
+Webcam HD,CAM-005,2,10,Peripherals,79.99
+Noise Cancelling Headphones,HEAD-006,15,10,Audio,149.99
+External SSD 1TB,SSD-007,4,8,Storage,89.99
+Mechanical Keyboard,MECH-008,9,12,Peripherals,119.99
+Laptop Stand,STAND-009,6,6,Accessories,39.99
+Gaming Mouse,MOUSE-010,1,5,Peripherals,64.99
+HDMI Cable 2m,HDMI-011,25,10,Cables,12.99
+Phone Stand,PSTAND-012,18,20,Accessories,14.99
+Desk Lamp LED,LAMP-013,30,10,Office,34.99
+Power Bank 20000mAh,POWER-014,3,10,Charging,49.99
+Screen Protector,SPROT-015,50,30,Accessories,9.99

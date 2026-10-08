@@ -1,0 +1,13 @@
+order_id,customer_name,customer_email,product_name,sku,quantity,order_date,status,shipment_carrier,tracking_number,estimated_delivery,notes
+ORD-1001,Alice Johnson,alice@example.com,Wireless Keyboard,KEY-002,2,2024-01-05,Shipped,FedEx,FX123456789,2024-01-10,
+ORD-1002,Bob Smith,bob@example.com,Laptop Bag,BAG-001,1,2024-01-06,Delivered,UPS,UPS987654321,2024-01-09,
+ORD-1003,Carol White,carol@example.com,USB-C Hub,HUB-003,1,2024-01-07,Processing,,,,
+ORD-1004,David Brown,david@example.com,Webcam HD,CAM-005,3,2024-01-08,Shipped,DHL,DHL456789012,2024-01-13,Priority order
+ORD-1005,Eve Davis,eve@example.com,External SSD 1TB,SSD-007,2,2024-01-09,Cancelled,,,,Customer requested cancellation
+ORD-1006,Frank Miller,frank@example.com,Gaming Mouse,MOUSE-010,1,2024-01-10,Shipped,FedEx,FX789012345,2024-01-15,
+ORD-1007,Grace Wilson,grace@example.com,Noise Cancelling Headphones,HEAD-006,1,2024-01-11,Delivered,UPS,UPS234567890,2024-01-14,
+ORD-1008,Henry Moore,henry@example.com,Mechanical Keyboard,MECH-008,2,2024-01-12,Processing,,,,
+ORD-1009,Irene Taylor,irene@example.com,Monitor Stand,MON-004,1,2024-01-13,Shipped,USPS,USPS345678901,2024-01-18,
+ORD-1010,James Anderson,james@example.com,Power Bank 20000mAh,POWER-014,2,2024-01-14,Delivered,DHL,DHL567890123,2024-01-17,
+ORD-1011,Karen Thomas,karen@example.com,Desk Lamp LED,LAMP-013,1,2024-01-15,Refund Requested,,,,Product damaged on arrival
+ORD-1012,Liam Jackson,liam@example.com,Laptop Stand,STAND-009,1,2024-01-15,Shipped,FedEx,FX890123456,2024-01-20,
